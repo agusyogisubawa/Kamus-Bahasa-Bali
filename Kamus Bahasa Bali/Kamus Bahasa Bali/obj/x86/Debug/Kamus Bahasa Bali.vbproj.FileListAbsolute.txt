@@ -1,0 +1,12 @@
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\bin\Debug\Kamus Bahasa Bali.exe
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\bin\Debug\Kamus Bahasa Bali.pdb
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\bin\Debug\Kamus Bahasa Bali.xml
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus_Bahasa_Bali.Form1.resources
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus_Bahasa_Bali.Form2.resources
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus_Bahasa_Bali.Resources.resources
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus Bahasa Bali.vbproj.GenerateResource.Cache
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus Bahasa Bali.exe
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus Bahasa Bali.xml
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus Bahasa Bali.pdb
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus_Bahasa_Bali.Form3.resources
+D:\Virtual\Project\Kamus Bahasa Bali\Kamus Bahasa Bali\obj\x86\Debug\Kamus_Bahasa_Bali.Form4.resources
